@@ -1,0 +1,4 @@
+[2024-10-06 13:19:26,148] 17 root - INFO - unwanted columns dropped
+[2024-10-06 13:19:26,157] 23 root - INFO - handled missing values
+[2024-10-06 13:19:26,164] 29 root - INFO - removed duplicates 
+[2024-10-06 13:19:26,285] 78 root - INFO - Converted Duration column into hours and minutes.

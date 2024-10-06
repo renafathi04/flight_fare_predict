@@ -1,0 +1,5 @@
+[2024-10-06 13:35:51,949] 17 root - INFO - unwanted columns dropped
+[2024-10-06 13:35:51,949] 23 root - INFO - handled missing values
+[2024-10-06 13:35:51,964] 29 root - INFO - removed duplicates 
+[2024-10-06 13:35:52,069] 78 root - INFO - Converted Duration column into hours and minutes.
+[2024-10-06 13:35:56,466] 59 root - INFO - Flight price prediction pipeline completed.
